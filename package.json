@@ -16,7 +16,7 @@
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.20",
     "gh-pages": "^2.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nuxt": "^2.0.0",
     "vue-color": "^2.7.0",
     "vuejs-datepicker": "^1.5.4",
